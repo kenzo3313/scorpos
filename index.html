@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <!-- 軸の属性を決めている。特にfill:none;にしないと真っ黒になる。-->
+    <style>
+        .axis text {
+          font: 10px sans-serif;
+        }
+
+        .axis path,
+        .axis line {
+          fill: none;
+          stroke: #000;
+          stroke-width: 2;
+          shape-rendering: crispEdges;
+        }
+    </style>
+</head>
+<body>
+
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+
+    <script>
+
+// 軸の分も表示されるように、マージンを作っておく。
+var margin = {top: 20, right: 20, bottom: 30, left: 40},
+    width = 1000 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+
+// transfromでマージンの分だけ位置をずらしている。
+var svg = d3.select("body").append("svg")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+            .append("g")
+            .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+var gdp = [
+            {円: 32007, gdp: 524, 増減: "up"},
+            {円: 42007, gdp: 504, 増減: "up"},
+            {円: 42008, gdp: 518, 増減: "down"},
+            {円: 51009, gdp: 490, 増減: "down"},
+            {円: 220010, gdp: 512, 増減: "up"},
+            {円: 122011, gdp: 510, 増減: "down"},
+            {円: 22012, gdp: 517, 増減: "up"},
+            {円: 22014, gdp: 525, 増減: "up"}
+            ];
+
+var xScale = d3.scale.linear()
+                .domain([10000,300000])
+                .range([0,width]);
+
+var yScale = d3.scale.linear()
+                .domain([480,530])
+                .range([height,0]);
+
+var colorCategoryScale = d3.scale.category10();
+
+// 軸を設定する。
+var xAxis = d3.svg.axis()
+                .scale(xScale)
+                .orient("bottom")
+                .tickSize(6, -height) // 棒の長さと方向。
+                .tickFormat(function(d){ return d+"円"; }); // 数字に年をつけている。
+
+var yAxis = d3.svg.axis()
+                .ticks(5) // 軸のチックの数。
+                .scale(yScale)
+                .orient("left")
+                .tickSize(6, -width);
+
+svg.selectAll("circle")
+    .data(gdp)
+    .enter()
+     .append("circle")
+     .attr("r",10)
+     .attr("fill", function(d){ return colorCategoryScale(d["増減"]); })
+     .attr("cx", function(d){ return xScale(d["円"]); })
+     .attr("cy", function(d){ return yScale(d["gdp"]); });
+
+// gの中でyAxisをcallして、y軸を作る。
+svg.append("g")
+    .attr("class", "y axis")
+    .call(yAxis)
+    .append("text")
+      .attr("y", -10)
+      .attr("x",10)
+      .style("text-anchor", "end")
+      .text("GDP(兆円)");
+
+svg.append("g")
+    .attr("class", "x axis")
+    .attr("transform", "translate(0," + height + ")")
+    .call(xAxis);
+
+    </script>
+
+</body>
+</html>
