@@ -9,6 +9,10 @@
    res.each do |r|
      p r
    end
+
+   q    = "insert into notepc (name,cpu) values(\'nameof\',\'core i7\')"
+   res  = conn.exec(q)
+
  rescue PGError => ex
    # PGError process
    print(ex.class," -> ",ex.message)

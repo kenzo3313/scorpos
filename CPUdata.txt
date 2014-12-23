@@ -1,6 +1,6 @@
 Intel Core i7-4980HQ @ 2.80GHz
 9,970
-NA
+
 Intel Core i7-4940MX @ 3.10GHz
 9,942
 $1,096.00*
@@ -15,13 +15,13 @@ Intel Core i7-4930MX @ 3.00GHz
 $1,096.00*
 Intel Core i7-4860HQ @ 2.40GHz
 9,457
-NA
+
 Intel Core i7-4770S @ 3.10GHz
 9,422
 $306.89
 Intel Core i7-4770HQ @ 2.20GHz
 9,270
-NA
+
 Intel Core i7-3940XM @ 3.00GHz
 9,203
 $549.99*
@@ -36,13 +36,13 @@ Intel Core i7-4900MQ @ 2.80GHz
 $559.99
 Intel Core i7-4760HQ @ 2.10GHz
 9,101
-NA
+
 Intel Core i7-3840QM @ 2.80GHz
 8,996
 $429.00*
 Intel Core i7-4870HQ @ 2.50GHz
 8,910
-NA
+
 Intel Core i7-4810MQ @ 2.80GHz
 8,828
 $378.00*
@@ -60,13 +60,13 @@ Intel Core i7-3720QM @ 2.60GHz
 $309.99*
 Intel Core i7-4750HQ @ 2.00GHz
 8,200
-NA
+
 Intel Core i7-4710MQ @ 2.50GHz
 7,940
 $245.99*
 Intel Core i7-4710HQ @ 2.50GHz
 7,907
-NA
+
 Intel Core i7-4700HQ @ 2.40GHz
 7,883
 $383.00*
@@ -75,7 +75,7 @@ Intel Core i7-4700MQ @ 2.40GHz
 $385.99*
 Intel Core i7-4702HQ @ 2.20GHz
 7,759
-NA
+
 Intel Core i7-3630QM @ 2.40GHz
 7,681
 $239.99*
@@ -84,25 +84,25 @@ Intel Core i7-3610QM @ 2.30GHz
 $399.99*
 Intel Core i7-4712HQ @ 2.30GHz
 7,417
-NA
+
 Intel Core i7-2960XM @ 2.70GHz
 7,396
 $1,096.00*
 Intel Core i7-3615QM @ 2.30GHz
 7,351
-NA
+
 Intel Core i7-2860QM @ 2.50GHz
 7,310
 $599.99*
 Intel Core i7-4702MQ @ 2.20GHz
 7,264
-NA
+
 Intel Core i7-4765T @ 2.00GHz
 7,224
-NA
+
 Intel Core i7-4712MQ @ 2.30GHz
 7,156
-NA
+
 Intel Core i7-3632QM @ 2.20GHz
 6,982
 $378.00*
@@ -111,58 +111,58 @@ Intel Core i7-2920XM @ 2.50GHz
 $1,096.00*
 Intel Core i7-3612QM @ 2.10GHz
 6,849
-NA
+
 Intel Core i7-2760QM @ 2.40GHz
 6,817
 $378.00*
 Intel Core i7-2840QM @ 2.40GHz
 6,766
-NA
+
 Intel Core i7-3612QE @ 2.10GHz
 6,665
-NA
+
 Intel Core i7-2820QM @ 2.30GHz
 6,644
 $498.95*
 Intel Core i7-3635QM @ 2.40GHz
 6,622
-NA
+
 Intel Core i7-2720QM @ 2.20GHz
 6,225
 $399.99*
 Intel Core i7-3610QE @ 2.30GHz
 6,198
-NA
+
 Intel Core i7-2670QM @ 2.20GHz
 6,005
 $378.00*
 Intel Core i7-2635QM @ 2.00GHz
 5,767
-NA
+
 AMD Athlon X4 860K Quad Core
 5,665
 $98.00
 Intel Core i7-2675QM @ 2.20GHz
 5,609
-NA
+
 Intel Core i7-2630QM @ 2.00GHz
 5,577
 $159.99*
 Intel Core i7-2710QE @ 2.10GHz
 5,398
-NA
+
 Intel Core i7-2715QE @ 2.10GHz
 5,199
-NA
+
 Intel Core i7-4610M @ 3.00GHz
 5,107
-NA
+
 Intel Core i7-4600M @ 2.90GHz
 4,899
-NA
+
 Intel Core i5-4308U @ 2.80GHz
 4,865
-NA
+
 Intel Core i7-3540M @ 3.00GHz
 4,708
 $259.99*
@@ -171,91 +171,91 @@ Intel Core i5-4330M @ 2.80GHz
 $274.99*
 Intel Core i5-4310M @ 2.70GHz
 4,645
-NA
+
 Intel Core i5-4288U @ 2.60GHz
 4,593
-NA
+
 Intel Core i5-4210H @ 2.90GHz
 4,552
-NA
+
 Intel Core i7-3520M @ 2.90GHz
 4,552
-NA
+
 Intel Core i5-4300M @ 2.60GHz
 4,509
-NA
+
 Intel Core i5-4278U @ 2.60GHz
 4,483
-NA
+
 Intel Core i7-3687U @ 2.10GHz
 4,351
-NA
+
 Intel Core i5-3360M @ 2.80GHz
 4,316
 $294.99
 Intel Core i7-4558U @ 2.80GHz
 4,272
-NA
+
 Intel Core i5-4210M @ 2.60GHz
 4,262
 $189.99*
 Intel Core i5-3380M @ 2.90GHz
 4,246
-NA
+
 Intel Core i7-4600U @ 2.10GHz
 4,241
-NA
+
 Intel Core i7-4650U @ 1.70GHz
 4,182
-NA
+
 Intel Core i5-4258U @ 2.40GHz
 4,165
-NA
+
 Intel Core i7 X 940 @ 2.13GHz
 4,160
-NA
+
 Intel Core i5-3340M @ 2.70GHz
 4,155
-NA
+
 Intel Core i5-4200M @ 2.50GHz
 4,111
 $179.99*
 Intel Core i7-3555LE @ 2.50GHz
 4,080
-NA
+
 Intel Core i5-3320M @ 2.60GHz
 4,018
 $239.99*
 Intel Core i7-4510U @ 2.00GHz
 3,992
-NA
+
 Intel Core i7-3667U @ 2.00GHz
 3,974
-NA
+
 Intel Core i7-2640M @ 2.80GHz
 3,964
-NA
+
 Intel Core i5-3230M @ 2.60GHz
 3,949
 $225.00*
 Intel Core i7-3537U @ 2.00GHz
 3,886
-NA
+
 Intel Core i7-4550U @ 1.50GHz
 3,878
-NA
+
 Intel Core i5-5200U @ 2.20GHz
 3,866
-NA
+
 Intel Core i7-2620M @ 2.70GHz
 3,860
-NA
+
 Intel Core i7-4500U @ 1.80GHz
 3,850
-NA
+
 Intel Core i5-4310U @ 2.00GHz
 3,839
-NA
+
 Intel Core i5-3210M @ 2.50GHz
 3,799
 $150.99*
@@ -264,64 +264,64 @@ Intel Core i7 920XM @ 2.00GHz
 $1,144.69*
 Intel Core i5-4300U @ 1.90GHz
 3,769
-NA
+
 Intel Core i5-2540M @ 2.60GHz
 3,708
 $139.99*
 Intel Core i7-3517U @ 1.90GHz
 3,677
-NA
+
 Intel Core i3-4100M @ 2.50GHz
 3,674
-NA
+
 Intel Core i5-4260U @ 1.40GHz
 3,647
-NA
+
 Intel Core i5-2510E @ 2.50GHz
 3,631
-NA
+
 AMD FX-7500 APU
 3,610
-NA
+
 Intel Core i5-4350U @ 1.40GHz
 3,604
-NA
+
 Intel Core i5-3427U @ 1.80GHz
 3,589
-NA
+
 Intel Core i5-2520M @ 2.50GHz
 3,553
 $137.99*
 Intel Core i5-3437U @ 1.90GHz
 3,525
-NA
+
 Intel Core i7-3689Y @ 1.50GHz
 3,479
-NA
+
 Intel Core i5-4250U @ 1.30GHz
 3,462
 $314.99
 Intel Core i7-3517UE @ 1.70GHz
 3,456
-NA
+
 Intel Core i5-4210U @ 1.70GHz
 3,436
-NA
+
 Intel Core i5-2450M @ 2.50GHz
 3,427
 $113.99*
 Intel Core i7 Q 840 @ 1.87GHz
 3,419
-NA
+
 Intel Core i3-3130M @ 2.60GHz
 3,388
-NA
+
 AMD A10-5750M APU
 3,373
-NA
+
 AMD A10 PRO-7350B APU
 3,363
-NA
+
 Intel Core2 Quad Q9100 @ 2.26GHz
 3,333
 $385.89*
@@ -330,7 +330,7 @@ Intel Core i3-4000M @ 2.40GHz
 $109.99*
 Intel Core i5-4200U @ 1.60GHz
 3,289
-NA
+
 Intel Core i3-3120M @ 2.50GHz
 3,262
 $117.99*
@@ -339,34 +339,34 @@ Intel Core i5-2430M @ 2.40GHz
 $97.99*
 Intel Core i7 Q 740 @ 1.73GHz
 3,248
-NA
+
 Intel Core i5-2435M @ 2.40GHz
 3,248
-NA
+
 Intel Core i5-3337U @ 1.80GHz
 3,229
 $225.00*
 Intel Core i7-2630UM @ 1.60GHz
 3,204
-NA
+
 Intel Core i7 Q 820 @ 1.73GHz
 3,187
-NA
+
 Intel Core i5-2410M @ 2.30GHz
 3,165
 $90.99*
 AMD A10-4600M APU
 3,126
-NA
+
 AMD A10-5757M APU
 3,107
-NA
+
 Intel Core i5-3317U @ 1.70GHz
 3,095
 $225.00*
 Intel Core i7-2637M @ 1.70GHz
 3,080
-NA
+
 Intel Core i7 Q 720 @ 1.60GHz
 3,063
 $364.00*
@@ -375,46 +375,46 @@ Intel Core i3-3110M @ 2.40GHz
 $105.99*
 Intel Core i3-4158U @ 2.00GHz
 3,059
-NA
+
 AMD A8 PRO-7150B APU
 3,053
-NA
+
 AMD A10-7300 APU
 3,020
-NA
+
 AMD A8-7100 APU
 3,016
-NA
+
 AMD A8-5550M APU
 2,985
-NA
+
 Intel Core i7-2677M @ 1.80GHz
 2,908
-NA
+
 AMD A8-5557M APU
 2,906
-NA
+
 Intel Core i3-4025U @ 1.90GHz
 2,901
-NA
+
 Intel Core i7 M 640 @ 2.80GHz
 2,863
-NA
+
 Intel Core i3-2310E @ 2.10GHz
 2,839
 $225.00*
 Intel Core i7-2617M @ 1.50GHz
 2,835
-NA
+
 AMD A10-5745M APU
 2,814
-NA
+
 AMD Phenom II X920 Quad-Core
 2,804
-NA
+
 AMD A8-3550MX APU
 2,794
-NA
+
 Intel Core i3-2370M @ 2.40GHz
 2,758
 $91.99*
@@ -423,31 +423,31 @@ Intel Core i7 M 620 @ 2.67GHz
 $166.99*
 Intel Core i3-4030U @ 1.90GHz
 2,746
-NA
+
 Intel Core i5 M 580 @ 2.67GHz
 2,719
-NA
+
 Intel Core M-5Y70 @ 1.10GHz
 2,700
-NA
+
 Intel Core i5-2557M @ 1.70GHz
 2,694
-NA
+
 AMD A8-4500M APU
 2,673
-NA
+
 Intel Core i3-2350M @ 2.30GHz
 2,642
-NA
+
 Intel Core i5 M 560 @ 2.67GHz
 2,636
 $249.99*
 Intel Core i3-2348M @ 2.30GHz
 2,625
-NA
+
 AMD A10-4655M APU
 2,579
-NA
+
 Intel Core2 Quad Q9000 @ 2.00GHz
 2,551
 $389.00*
@@ -456,76 +456,76 @@ Intel Core i3-2330M @ 2.20GHz
 $81.99*
 AMD A8-5545M APU
 2,531
-NA
+
 Intel Core i3-2328M @ 2.20GHz
 2,516
-NA
+
 AMD Phenom II N970 Quad-Core
 2,512
-NA
+
 AMD A8-6410 APU
 2,509
-NA
+
 AMD Phenom II N950 Quad-Core
 2,503
-NA
+
 Intel Core i3-4005U @ 1.70GHz
 2,502
-NA
+
 Intel Core i3-3227U @ 1.90GHz
 2,496
-NA
+
 Intel Core i3-4030Y @ 1.60GHz
 2,492
-NA
+
 Intel Core i3-4010U @ 1.70GHz
 2,475
 $269.99*
 Intel Core i5 M 480 @ 2.67GHz
 2,457
-NA
+
 Intel Core i7-2610UE @ 1.50GHz
 2,454
-NA
+
 AMD A6-5200 APU
 2,436
-NA
+
 Intel Core i5 540M @ 2.53GHz
 2,426
 $375.13*
 Intel Core i7 E 610 @ 2.53GHz
 2,425
-NA
+
 Intel Celeron 2970M @ 2.20GHz
 2,416
-NA
+
 Intel Core i3-2310M @ 2.10GHz
 2,409
 $53.99*
 AMD A6-6310 APU
 2,401
-NA
+
 AMD A8-3510MX APU
 2,394
-NA
+
 Intel Core i5 520M @ 2.40GHz
 2,392
 $239.99*
 Intel Core i3-2332M @ 2.20GHz
 2,382
-NA
+
 Intel Core i5 M 460 @ 2.53GHz
 2,354
-NA
+
 Intel Core i5-2467M @ 1.60GHz
 2,349
-NA
+
 Intel Core i7 640LM @ 2.13GHz
 2,338
-NA
+
 AMD A8-3530MX APU
 2,328
-NA
+
 Intel Pentium 2020M @ 2.40GHz
 2,321
 $134.00*
@@ -534,13 +534,13 @@ AMD Phenom II N930 Quad-Core
 $99.00*
 Intel Core i3 M 390 @ 2.67GHz
 2,304
-NA
+
 Intel Pentium 3550M @ 2.30GHz
 2,296
-NA
+
 Intel Core i3-3217U @ 1.80GHz
 2,293
-NA
+
 Intel Pentium 2030M @ 2.50GHz
 2,269
 $134.00*
@@ -549,43 +549,43 @@ Intel Core2 Duo T9900 @ 3.06GHz
 $398.95*
 Intel Core i7 620LM @ 2.00GHz
 2,260
-NA
+
 AMD Phenom II X620 Dual-Core
 2,258
-NA
+
 AMD A8-3520M APU
 2,257
-NA
+
 AMD A6-3430MX APU
 2,247
-NA
+
 Intel Core i5 520 @ 2.40GHz
 2,244
-NA
+
 Intel Core i3-3217UE @ 1.60GHz
 2,228
-NA
+
 Intel Core i3-4012Y @ 1.50GHz
 2,222
-NA
+
 Intel Core2 Extreme X9100 @ 3.06GHz
 2,193
 $851.00*
 AMD A4-6210 APU
 2,184
-NA
+
 Intel Core i3 E 330 @ 2.13GHz
 2,182
-NA
+
 AMD A8-4555M APU
 2,172
-NA
+
 Intel Core i5-2537M @ 1.40GHz
 2,171
-NA
+
 Intel Core i5 M 450 @ 2.40GHz
 2,129
-NA
+
 Intel Core i3 M 380 @ 2.53GHz
 2,120
 $58.99*
@@ -594,28 +594,28 @@ Intel Core2 Duo T9800 @ 2.93GHz
 $423.89*
 Intel Core i5 M 430 @ 2.27GHz
 2,112
-NA
+
 AMD A6-3410MX APU
 2,111
-NA
+
 AMD GX-420CA SOC
 2,107
-NA
+
 AMD Phenom II P960 Quad-Core
 2,105
 $28.00*
 Intel Core i3-2312M @ 2.10GHz
 2,095
-NA
+
 AMD A6-3420M APU
 2,066
-NA
+
 Intel Celeron 2950M @ 2.00GHz
 2,064
-NA
+
 Intel Pentium B980 @ 2.40GHz
 2,053
-NA
+
 AMD A8-3500M APU
 2,041
 $33.00
@@ -624,16 +624,16 @@ Intel Core i3 M 370 @ 2.40GHz
 $53.99*
 Intel Core2 Extreme X9000 @ 2.80GHz
 2,006
-NA
+
 Intel Pentium N3540 @ 2.16GHz
 2,003
-NA
+
 Intel Core2 Duo P9700 @ 2.80GHz
 2,001
-NA
+
 AMD GX-415GA SOC
 2,000
-NA
+
 Intel Pentium B970 @ 2.30GHz
 1,976
 $50.99*
@@ -645,13 +645,13 @@ Intel Core2 Duo T9600 @ 2.80GHz
 $64.99*
 Intel Pentium N3530 @ 2.16GHz
 1,964
-NA
+
 AMD Phenom II N870 Triple-Core
 1,953
-NA
+
 Intel Core2 Duo P9600 @ 2.66GHz
 1,926
-NA
+
 AMD Phenom II N850 Triple-Core
 1,925
 $25.00
@@ -660,24 +660,24 @@ AMD Phenom II P920 Quad-Core
 $18.00*
 AMD A4-5150M APU
 1,920
-NA
+
 Intel Pentium 2127U @ 1.90GHz
 1,910
 $134.00*
 AMD E2-6110 APU with AMD Radeon R2 Graphics
 1,907
-NA
+
 Intel Core i3 M 350 @ 2.27GHz
 1,906
 $41.99*
 AMD A4-5000 APU
 1,900
-NA
+
 AMD Phenom II N830 Triple-Core
 1,894
-NA
+
 Intel Core i7 U 660 @ 1.33GHz
 1,893
-NA
+
 Intel Celeron 1005M @ 1.90GHz
 1,887
